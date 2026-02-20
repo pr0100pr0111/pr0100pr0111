@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ruslan 👋
 
-<!--
-**pr0100pr0111/pr0100pr0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High School Student & Backend Developer 
+📍 Based in Astrakhan/Russia  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+Building scalable services with **Go** & **Python**. **PostgreSQL** and **Kafka** also in tech stack.
+Tools to use: VScode, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 Facts about me
+- 💻 Entered my first computer science school at 12.
+- 🐧 I use Arch btw.
+- 🎯 Member of the best physics school team in whole city.
+- 🌍 Speaking: Russian (native), English (B2), Japanese (n5).
+- 📖 If I don't write code, I write the novel.
+
+---
+*Code. Learn. Repeat.*
